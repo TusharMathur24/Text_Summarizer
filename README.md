@@ -1,4 +1,4 @@
-# Flask Text Summarizer
+# Text Summarizer
 
 A simple web application for extractive text summarization using Python, Flask, and NLTK. This app allows users to input text and receive a concise summary, either via a web form or a REST API.
 
